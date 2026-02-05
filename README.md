@@ -102,7 +102,7 @@ The model demonstrates strong recall for violations and environmental factors, i
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone <git@github.com:Victor-Mufasa/Phase-4-Project.git>
 
 # Install required packages
 pip install pandas numpy matplotlib seaborn scipy scikit-learn xgboost imbalanced-learn
@@ -143,13 +143,6 @@ Based on the analysis, the following interventions are recommended:
 - Implement geospatial clustering for accident hotspot identification
 - Explore time-series forecasting for proactive intervention planning
 
-## Contributors
-
-[Your Name]
-
-## License
-
-[Specify License]
 
 ## Acknowledgments
 
